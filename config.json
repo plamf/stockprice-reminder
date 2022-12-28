@@ -1,0 +1,8 @@
+{
+    "apiKey": "demo",
+    "mailSender": "noreply@yourdomain.com",
+    "mailSenderPassword": "yourpw",
+    "mailRecipient": "recipient@yourdomain.com",
+    "smtpServer": "smtp.lol.com",
+    "smtpPort": 587
+}

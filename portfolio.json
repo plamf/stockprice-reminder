@@ -1,0 +1,12 @@
+[
+    {
+        "Symbol": "AAPL",
+        "Name": "Apple",
+        "Price": 100
+    },
+    {
+        "Symbol": "MSFT",
+        "Name": "Microsoft",
+        "Price": 100
+    }
+]
